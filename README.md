@@ -5,7 +5,7 @@ https://img.shields.io/badge/yandex-practicum-yellow
 ## Описание
 Учебный проект, в разработке
 Польза: мессенджер для деловых людей с неудаляемыми сообщениями
-Сайт: 
+Сайт: https://dapper-frangollo-6cdc5f.netlify.app/
 
 ## Установка
 Проект открывается на 3000 порту, команда для запуска проекта — npm run start
